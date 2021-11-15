@@ -1,0 +1,50 @@
+html {
+    background-color: rgb(159, 138, 165);
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    margin: auto;
+    background: #fff;
+    border: 10px solid rgb(0, 0, 0);
+    width: 1000px;
+    height: 500px;
+    text-align: center;
+    margin-top: 200px;
+    
+}
+
+ul {
+    list-style: none;
+    display: inline-flex;
+    gap: 100px;
+}
+
+#b1 {
+    background-color: crimson;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+.cough-text {
+    padding: 0;
+    margin: 5px;
+
+}
+
+.brendan {
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+}
+
+.footer {
+    margin-top: 100px;
+}
+
+#b1 li a img:hover {
+    opacity: 0.2;
+    transition: ease-in-out 0.5s;
+}
