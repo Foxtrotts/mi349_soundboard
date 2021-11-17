@@ -11,7 +11,8 @@ body {
     width: 1000px;
     height: 500px;
     text-align: center;
-    margin-top: 200px;
+    margin-top: 100px;
+    margin-bottom: 100px;
     
 }
 
@@ -21,12 +22,6 @@ ul {
     gap: 100px;
 }
 
-#b1 {
-    background-color: crimson;
-    width: 200px;
-    height: 200px;
-    margin: auto;
-}
 
 .cough-text {
     padding: 0;
@@ -36,8 +31,9 @@ ul {
 
 .brendan {
     width: 200px;
-    height: 200px;
-    border: 5px solid black;
+    height: 210px;
+    border: 8px solid black;
+    margin: auto;
 }
 
 .footer {
